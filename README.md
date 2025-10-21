@@ -23,3 +23,9 @@ helm install kubecost kubecost/kubecost -n kubecost --create-namespace
 ```
 helm uninstall kubecost -n kubecost
 ```
+
+## Remove persistent volume
+
+```
+kubectl delete namespace kubecost
+```
