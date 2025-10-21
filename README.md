@@ -29,3 +29,11 @@ helm uninstall kubecost -n kubecost
 ```
 kubectl delete namespace kubecost
 ```
+
+## Reference Resource
+
+```
+https://www.ibm.com/docs/en/kubecost/self-hosted/3.x?topic=SSW0JQG_3.0.x/install-and-configure/install/install.htm
+https://nangman14.tistory.com/105
+https://devocean.sk.com/blog/techBoardDetail.do?ID=164699&boardType=techBlog
+```
